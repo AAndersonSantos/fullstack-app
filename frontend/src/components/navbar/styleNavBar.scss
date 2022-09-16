@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    font-family: Lato;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 400;
+}

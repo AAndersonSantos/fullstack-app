@@ -1,0 +1,25 @@
+.container-posts{
+    text-align: center;
+    section{
+        display: flex;
+        justify-content: center;
+        text-align: start;
+    }
+
+    .btn-add{
+        margin-top: 20px;
+        height: 35px;
+        width: 200px;
+        border-radius: 7px;
+        border: none;
+        background:#00CD66;
+        color: #ffffff;
+        cursor: pointer;
+        font-size: 17px;
+
+        &:hover{
+            transform: scale(0.96);
+        }
+        
+    }
+}
